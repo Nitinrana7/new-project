@@ -1,2 +1,2 @@
 # new-project
-Author - Nitin Pardehsi
+<p aligh = "center"> Author - Nitin Pardehsi </p>  
